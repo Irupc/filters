@@ -17,7 +17,7 @@ API_HASH = os.environ.get("API_HASH", "fbc8918eed3b68ccfd80283cf53db785")
 TG_USER_SESSION = os.environ.get("TG_USER_SESSION", "BQCEyVB6WRtaUltCBxCI1q5BrV_G-yVfneUUKcyN45jCbY6Kx7xLfObjLpoMSfBTTDfWjBMHU4xBG9yG0JuTKQ78xgpYtRvaMTe5zEgJLkFigmZc7B8rtKy5smpdf_ouCf4it8lgJkFC0GBNHqO4omLhKJLaRzKlHUjyd66TbMcON4BZ9ocnAPh29TGP01j0bW0Qk5HAP-R0B09lKH8A_EUeRpMywYPqw_yRyWkF3HltxdRGh5-BKOWZrBfWJlRCIXcpzhgNWJOORRTERqI6aRX0G9x3jpCKif8Ar50SwRG1I-BRGUDB4ApOaynKrR5xGsObWASm4dTm5Glyz4zxyoXdZS2DfgA")
 
 # Database URL from https://cloud.mongodb.com/
-DATABASE_URI = os.environ.get("DATABASE_URI", "mongodb+srv://Gamy_Gamin:Gamy_Gamin@cluster0.89qnu.mongodb.net/myFirstDatabase?retryWrites=true&w=majority")
+DATABASE_URI = os.environ.get("DATABASE_URI", "mongodb+srv://Gamy_Gamin:Gamin@cluster0.89qnu.mongodb.net/myFirstDatabase?retryWrites=true&w=majority")
 
 # Your database name from mongoDB
 DATABASE_NAME = os.environ.get("DATABASE_NAME", "Cluster0")
